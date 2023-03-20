@@ -29,6 +29,11 @@ How to operate :
 
 (screenshot image could be slitely different with the web application)
 
+## Video
+Firtst workthrough video (getting all datas) : https://drive.google.com/file/d/18wjNKqT5kexo8Q5xZW9YIzmAEaEq1nBD/view <br>
+Second workthrough video (getting a single data by id) : https://drive.google.com/file/d/1LCwfnttifoOl6xwQdpw4-fYrBAal0EdR/view<br>
+Third workthrough video (POST, PUT, and DELETE routes for categories) : https://drive.google.com/file/d/1ALw-kfQgOUgI9mSQRWIYD_09m39CBDND/view<br>
+
 ## Credits
 
 N/A
